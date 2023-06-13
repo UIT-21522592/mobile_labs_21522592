@@ -16,7 +16,7 @@
             android:layout_height="208dp"
             android:layout_gravity="center"
             android:scaleType="fitCenter"
-            android:src="@drawable/uit_logo" />
+            />
     </FrameLayout>
     <LinearLayout
         android:layout_marginTop="@dimen/margin_basex2"
